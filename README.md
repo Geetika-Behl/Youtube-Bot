@@ -8,11 +8,10 @@
 
 * requirements.txt: Lists all the Python dependencies required for the project.
 
-* retriever.py: This script might retrieve specific information from YouTube videos, such as video metadata or comments.
+* retriver.py: retrieve the information / answer in response of user query.
 
-* youtubegradio.py: Main File- Integrates the YouTube bot with Gradio, a framework to create interactive web interfaces for machine learning models.
+* youtubegradio.py: Main File
 
 * generator.py: generate embeddings from the transcript and store it inside chromaDB.
   
-* retriver.py: retrieve the information / answer in response of user query.
 
