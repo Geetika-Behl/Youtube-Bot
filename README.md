@@ -10,6 +10,9 @@
 
 * retriever.py: This script might retrieve specific information from YouTube videos, such as video metadata or comments.
 
-* speech_conversion.py: This script converts speech from the videos into text, by using speech-to-text APIs.
+* youtubegradio.py: Main File- Integrates the YouTube bot with Gradio, a framework to create interactive web interfaces for machine learning models.
 
-* youtubegradio.py: Integrates the YouTube bot with Gradio, a framework to create interactive web interfaces for machine learning models.
+* generator.py: generate embeddings from the transcript and store it inside chromaDB.
+  
+* retriver.py: retrieve the information / answer in response of user query.
+
